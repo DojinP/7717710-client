@@ -1,0 +1,12 @@
+/* 피처 섹션 스타일링 */
+.features-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+  }
+  
+  .feature {
+    text-align: center;
+    margin: 0 20px;
+  }
